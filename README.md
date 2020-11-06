@@ -1,17 +1,16 @@
-### For those who believe in me
-#### About myself
+### About myself
 I'm Hak Jae Kim and i'm intereseted in web development.<br>
 I'm full with eager to learn new technique and skill.<br>
 Love to work as a team, love what I do and learn<br>
 
-#### Skill Set
+### Skill Set
 **✔ Familiar with**<br>
 Python, Java, R (Have done small project.)
 
 **🔥 Currently learning**<br>
 Front-end(HTML, JS, React)
 
-#### More about me
+### More about me
 * E-mail : `gouz7514@naver.com`  
 * Velog : `https://velog.io/@gouz7514`  
 
