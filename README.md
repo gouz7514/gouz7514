@@ -5,10 +5,10 @@ I'm full with eager to learn new technique and skill.<br>
 Love to work as a team, love what I do and learn<br>
 
 #### Skill Set
-**✔ Familiar with**
+**✔ Familiar with**<br>
 Python, Java, R (Have done small project.)
 
-**🔥 Currently learning**
+**🔥 Currently learning**<br>
 Front-end(HTML, JS, React)
 
 #### More about me
