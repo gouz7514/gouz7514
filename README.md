@@ -1,4 +1,13 @@
-### Hi there 👋
+### ✨You are breathtaking!✨
+#### About myself
+
+#### Skill Set
+
+#### Currently learning
+
+#### More about me
+*E-mail : `gouz7514@naver.com`
+*Velog : `https://velog.io/@gouz7514`
 
 <!--
 **gouz7514/gouz7514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
