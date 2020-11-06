@@ -1,7 +1,7 @@
 ### About myself
 I'm Hak Jae Kim and i'm intereseted in web development.<br>
 I'm full with eager to learn new technique and skill.<br>
-Love to work as a team, love what I do and learn<br>
+Love to work as a team, love what I do and learn.<br>
 
 ### Skill Set
 **✔ Familiar with**<br>
