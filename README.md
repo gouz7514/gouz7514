@@ -12,7 +12,7 @@ Front-end(HTML, JS, React)
 
 ### More about me
 * E-mail : `gouz7514@naver.com`  
-* Velog : `https://velog.io/@gouz7514`  
+* Velog : [https://velog.io/@gouz7514](https://velog.io/@gouz7514)  
 
 [![gouz7514's github stats](https://github-readme-stats.vercel.app/api?username=gouz7514)](https://github.com/anuraghazra/github-readme-stats)
 
