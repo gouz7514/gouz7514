@@ -5,10 +5,10 @@ Love to work as a team, love what I do and learn.<br>
 
 ### Skill Set
 **✔ Familiar with**<br>
-Python, Java, R (Have done small project.)
+Python, Java, R, React, JavaScript (Have done small project.)
 
 **🔥 Currently learning**<br>
-Front-end(HTML, JS, React)
+Front-end, Spring
 
 ### More about me
 * E-mail : `gouz7514@naver.com`  
