@@ -8,11 +8,12 @@ Love to work as a team, love what I do and learn.<br>
 Python, Java, R, React, JavaScript (Have done small project.)
 
 **🔥 Currently learning**<br>
-Front-end, Spring
+코테 열심히 하는 중, 리액트 훅, 리덕스
 
 ### More about me
 * E-mail : `gouz7514@naver.com`  
-* Velog : [https://velog.io/@gouz7514](https://velog.io/@gouz7514)  
+* Velog : [https://velog.io/@gouz7514](https://velog.io/@gouz7514)
+* 포트폴리오 : [코딩하는 올해의 카투사, 김학재입니다](https://drive.google.com/file/d/17CMoF6UMcRWnhMEA9idDGH6BYaTK8D1b/view?usp=sharing)
 
 [![gouz7514's github stats](https://github-readme-stats.vercel.app/api?username=gouz7514)](https://github.com/anuraghazra/github-readme-stats)
 
