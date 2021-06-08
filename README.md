@@ -2,13 +2,14 @@
 I'm Hak Jae Kim and i'm intereseted in web development.<br>
 I'm full with eager to learn new technique and skill.<br>
 Love to work as a team, love what I do and learn.<br>
+From FE engineer, To Full-Stack developer 🦾
 
 ### Skill Set
 **✔ Familiar with**<br>
 Python, Java, R, React, JavaScript (Have done small project.)
 
 **🔥 Currently learning**<br>
-코테 열심히 하는 중, 리액트 훅, 리덕스
+Vue, Nuxt
 
 ### More about me
 * E-mail : `gouz7514@naver.com`  
