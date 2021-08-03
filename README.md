@@ -6,10 +6,10 @@ From FE engineer, To Full-Stack developer 🦾
 
 ### Skill Set
 **✔ Familiar with**<br>
-Python, Java, R, React, JavaScript (Have done small project.)
+Python, Java, R, React, JavaScript, Vue (Have done small project.)
 
 **🔥 Currently learning**<br>
-Vue, Nuxt
+TypeScript
 
 ### More about me
 * E-mail : `gouz7514@naver.com`  
