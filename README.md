@@ -15,8 +15,7 @@ TypeScript, React
 * E-mail : [gouz7514@naver.com](gouz7514@naver.com)
 * Velog : [https://velog.io/@gouz7514](https://velog.io/@gouz7514)
 * Portfolio : [코딩하는 올해의 카투사, 김학재입니다](https://drive.google.com/file/d/17CMoF6UMcRWnhMEA9idDGH6BYaTK8D1b/view?usp=sharing) (2021.05 ver)
-
-[![gouz7514's github stats](https://github-readme-stats.vercel.app/api?username=gouz7514)](https://github.com/anuraghazra/github-readme-stats)
+[![gouz7514's github stats](https://github-readme-stats-gouz7514.vercel.app/api?username=gouz7514)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gouz7514/gouz7514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
