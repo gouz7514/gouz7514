@@ -1,12 +1,12 @@
 ### About myself
-I'm Hak Jae Kim and i'm working as a Software Engineer at INPOCK.inc<br>
+I'm Hak Jae Kim and i'm working as a Software Engineer at ABZ.inc<br>
 I'm full with eager to learn new technique and skill.<br>
 Love to work as a team, love what I do and learn.<br>
 From FE engineer, To Full-Stack developer 🦾
 
 ### Skill Set
 **✔ Familiar with**<br>
-Python, Java, R, React, JavaScript, Vue (Have done small project.)
+Python, Java, R, React, JavaScript, Vue, AWS
 
 **🔥 Currently learning**<br>
 TypeScript, React
