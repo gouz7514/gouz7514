@@ -9,7 +9,7 @@ From FE engineer, To Full-Stack developer 🦾
 Python, Java, R, React, JavaScript, Vue, AWS
 
 **🔥 Currently learning**<br>
-TypeScript, React
+TypeScript, React, GraphQl, Next
 
 ### More about me
 * E-mail : [gouz7514@naver.com](gouz7514@naver.com)
