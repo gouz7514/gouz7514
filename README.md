@@ -1,20 +1,20 @@
 ### About myself
-I'm Hak Jae Kim and i'm working as a Software Engineer at ABZ.inc<br>
+I'm Hak Jae Kim<br>
 I'm full with eager to learn new technique and skill.<br>
 Love to work as a team, love what I do and learn.<br>
-From FE engineer, To Full-Stack developer 🦾
+🦾
 
 ### Skill Set
 **✔ Familiar with**<br>
-Python, Java, R, React, JavaScript, Vue, AWS
+Python, Java, R, React, JavaScript, Vue, Nuxt, Webpack, AWS
 
 **🔥 Currently learning**<br>
-TypeScript, React, GraphQl, Next
+TypeScript, React, Next
 
 ### More about me
 * E-mail : [gouz7514@naver.com](gouz7514@naver.com)
 * Velog : [https://velog.io/@gouz7514](https://velog.io/@gouz7514)
-* Portfolio : [코딩하는 올해의 카투사, 김학재입니다](https://drive.google.com/file/d/17CMoF6UMcRWnhMEA9idDGH6BYaTK8D1b/view?usp=sharing) (2021.05 ver)
+* Portfolio : [게으른 개발자, 김학재입니다](https://drive.google.com/file/d/1eOmdoKEXnJ6T0upJCg74s6aXxolT3YNT/view?usp=sharing) (2023.05 ver)
 
 
 [![gouz7514's github stats](https://github-readme-stats-gouz7514.vercel.app/api?username=gouz7514)](https://github.com/anuraghazra/github-readme-stats)
