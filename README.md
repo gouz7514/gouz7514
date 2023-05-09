@@ -14,7 +14,7 @@ TypeScript, React, Next
 ### More about me
 * E-mail : [gouz7514@naver.com](gouz7514@naver.com)
 * Velog : [https://velog.io/@gouz7514](https://velog.io/@gouz7514)
-* Portfolio : [게으른 개발자, 김학재입니다](https://drive.google.com/file/d/1eOmdoKEXnJ6T0upJCg74s6aXxolT3YNT/view?usp=sharing) (2023.05 ver)
+* Portfolio : [게으른 개발자, 김학재입니다](https://drive.google.com/file/d/1xbd7lEB28ctXSD-VXICi4JIN1SziEOX7/view?usp=sharing) (2023.05 ver)
 
 
 [![gouz7514's github stats](https://github-readme-stats-gouz7514.vercel.app/api?username=gouz7514)](https://github.com/anuraghazra/github-readme-stats)
