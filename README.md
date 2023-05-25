@@ -6,9 +6,11 @@
 
 ### SKILLS
 **✔ Familiar with**<br>
+
 [![Tech stacks](https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,webpack,aws,react)](https://skillicons.dev)
 
 **🔥 Currently learning**<br>
+
 [![Tech stacks](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
 
 
