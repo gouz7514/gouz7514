@@ -15,7 +15,7 @@
 ### CONTACT
 * E-mail : [gouz7514@gmail.com](gouz7514@gmail.com)
 * Velog : [https://velog.io/@gouz7514](https://velog.io/@gouz7514)
-* Resume : [김학재 경력기술서]([https://drive.google.com/file/d/1sX61X34fI2OjknhngkN4eaqmdUos3u_e/view?usp=sharing](https://drive.google.com/file/d/1jaT463qX4KgmjC3Ohb1Y1tDA1HUaBWqo/view?usp=sharing)) (2023.05 ver)
+* Resume : [김학재 경력기술서]([https://drive.google.com/file/d/1sX61X34fI2OjknhngkN4eaqmdUos3u_e/view?usp=sharing])
 * Homepage : [hotjae.com](https://hotjae.com)
 
 
