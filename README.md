@@ -1,20 +1,22 @@
-### About myself
-I'm Hak Jae Kim<br>
-I'm full with eager to learn new technique and skill.<br>
-Love to work as a team, love what I do and learn.<br>
-🦾
+### ABOUT.ME
+ 국내 1위 바이오링크 서비스인 '인포크링크' 서비스를 개발한 경험이 있습니다. 신입 프론트엔드 개발자로 취업 당시, vue와 nuxt를 처음 접해보는 저였지만 특유의 학습 능력과 끈기를 가지고 노력한 결과 1달만에 첫번째 프로덕트를 배포할 수 있었고, 이후 수많은 프로덕트의 개발 및 배포를 성공적으로 한 경험이 있습니다. 프론트엔드 도메인에 국한되지 않고, 서버 인프라 구축, AWS 비용 구조의 개선 등 여러 도메인에 걸쳐 개발한 경험이 있습니다.
 
-### Skill Set
+ 이전 직장을 그만둔 뒤 현재는 이직 준비를 하는 중에 있습니다. 현재 보유 기술 중 상대적으로 숙련도가 낮은 `react`, `nextjs`를 열심히 공부 중에 있으며 이를 토대로 한 개인 블로그를 구축해 나가는 중입니다. 체계적인 개발 문화, 뚜렷한 목표를 갖고 열심히 고민하는 문화를 가진 환경을 지양합니다.
+ 
+
+### SKILLS
 **✔ Familiar with**<br>
-Python, Java, R, React, JavaScript, Vue, Nuxt, Webpack, AWS
+[![Tech stacks](https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,webpack,aws,react)](https://skillicons.dev)
 
 **🔥 Currently learning**<br>
-TypeScript, React, Next
+[![Tech stacks](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
 
-### More about me
-* E-mail : [gouz7514@naver.com](gouz7514@naver.com)
+
+### CONTACT
+* E-mail : [gouz7514@gmail.com](gouz7514@gmail.com)
 * Velog : [https://velog.io/@gouz7514](https://velog.io/@gouz7514)
-* Portfolio : [게으른 개발자, 김학재입니다](https://drive.google.com/file/d/1sX61X34fI2OjknhngkN4eaqmdUos3u_e/view?usp=sharing) (2023.05 ver)
+* Resume : [김학재 경력기술서]([https://drive.google.com/file/d/1sX61X34fI2OjknhngkN4eaqmdUos3u_e/view?usp=sharing](https://drive.google.com/file/d/1jaT463qX4KgmjC3Ohb1Y1tDA1HUaBWqo/view?usp=sharing)) (2023.05 ver)
+* Homepage : [hotjae.com](https://hotjae.com)
 
 
 [![gouz7514's github stats](https://github-readme-stats-gouz7514.vercel.app/api?username=gouz7514)](https://github.com/anuraghazra/github-readme-stats)
