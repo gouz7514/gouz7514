@@ -21,7 +21,7 @@
 ### 📫 CONTACT
 * E-mail : [gouz7514@gmail.com](gouz7514@gmail.com)
 * Blog : [https://velog.io/@gouz7514](https://velog.io/@gouz7514)
-* Resume : [경력기술서 (CV)](https://drive.google.com/file/d/1ZoEpNtpuxgspP8kb5P5YFdRwt5dWOa21/view?usp=sharing)
+* Resume : [경력기술서 (CV)](https://drive.google.com/file/d/1Ui34b4a1na1XcRvxVfVJ7vSFfw9IS5HL/view?usp=sharing)
 * Homepage : [hotjae.com](https://hotjae.com)
 
 
