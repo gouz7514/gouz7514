@@ -15,7 +15,7 @@
 
 **Currently learning**
 
-[![Tech stacks](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
+[![Tech stacks](https://skillicons.dev/icons?i=react,nextjs,firebase)](https://skillicons.dev)
 
 
 ### 📫 CONTACT
