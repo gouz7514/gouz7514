@@ -25,7 +25,7 @@
 ## 💻 SKILLS
 **Familiar with**
 
-[![Tech stacks](https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,webpack,aws,react)](https://skillicons.dev)
+[![Tech stacks](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,webpack,aws)](https://skillicons.dev)
 
 **Currently learning**
 
