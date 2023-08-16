@@ -35,8 +35,9 @@
 ## 📫 CONTACT
 * E-mail : [gouz7514@gmail.com](gouz7514@gmail.com)
 * Blog : [https://velog.io/@gouz7514](https://velog.io/@gouz7514)
-* Resume : [경력기술서 (CV)](https://drive.google.com/file/d/1Ui34b4a1na1XcRvxVfVJ7vSFfw9IS5HL/view?usp=sharing)
-* Homepage : [hotjae.com](https://hotjae.com)
+* Resume : [불편함을 불편해하는 개발자 김학재입니다](https://drive.google.com/file/d/1GZzkF9ad2DBQwQdn50VBbeOHR19E2KAx/view?usp=sharing)
+* 경력기술서 : [김학재 경력기술서](https://drive.google.com/file/d/1HmfsU7fkkfrJHLwgKJ3N2jv2cOzlNv7P/view?usp=sharing)
+* Homepage : [hotjae.com](https://hotjae.com) (Updating...)
 
 
 [![gouz7514's github stats](https://github-readme-stats-gouz7514.vercel.app/api?username=gouz7514)](https://github.com/anuraghazra/github-readme-stats)
