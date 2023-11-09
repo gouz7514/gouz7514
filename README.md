@@ -31,15 +31,14 @@
 
 **Currently learning**
 
-[![Tech stacks](https://skillicons.dev/icons?i=react,nextjs,firebase)](https://skillicons.dev)
+[![Tech stacks](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
 
 
 ## 📫 CONTACT
-* E-mail : [gouz7514@gmail.com](gouz7514@gmail.com)
-* Blog : [https://velog.io/@gouz7514](https://velog.io/@gouz7514)
-* Resume : [불편함을 불편해하는 개발자 김학재입니다](https://drive.google.com/file/d/1GZzkF9ad2DBQwQdn50VBbeOHR19E2KAx/view?usp=sharing)
+* 이메일 : [gouz7514@gmail.com](gouz7514@gmail.com)
+* 블로그 : [https://velog.io/@gouz7514](https://velog.io/@gouz7514)
+* 이력서 : [김학재_이력서](https://drive.google.com/file/d/1FQ1IfrqY1Yn7ItXUC9ieULRjAL_mZUPW/view?usp=sharing)
 * 경력기술서 : [김학재 경력기술서](https://drive.google.com/file/d/1HmfsU7fkkfrJHLwgKJ3N2jv2cOzlNv7P/view?usp=sharing)
-* Homepage : [hotjae.com](https://hotjae.com) (Updating...)
 
 
 [![gouz7514's github stats](https://github-readme-stats-gouz7514.vercel.app/api?username=gouz7514)](https://github.com/anuraghazra/github-readme-stats)
