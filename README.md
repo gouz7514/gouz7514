@@ -25,13 +25,13 @@
 
 
 ## 💻 SKILLS
-**Familiar with**
+**이런 기술들을 쓸 줄 알아요**
 
 [![Tech stacks](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,webpack,aws)](https://skillicons.dev)
 
-**Currently learning**
+**이런 기술들을 공부하고 있어요**
 
-[![Tech stacks](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
+[![Tech stacks](https://skillicons.dev/icons?i=react,nextjs,emotion)](https://skillicons.dev)
 
 
 ## 📫 CONTACT
