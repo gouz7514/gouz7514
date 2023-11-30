@@ -18,7 +18,7 @@
 ## 💾 Career
 **에이비제트 주식회사**<br />
 2021.06 ~ 2023.04 (1년 11개월)
-- 12만 회원, 1,000만 MAU
+- 12만 회원, 1,000만 MAU (23년 4월 기준)
 - 국내 1위 바이오링크 서비스 [인포크링크](https://link.inpock.co.kr) 메인 프론트엔드 개발자로 근무
 - 직접 CS 응대를 통해 고객이 원하는 바를 파악하고 서비스 품질 향상에 기여
 - 프론트엔드뿐 아니라 다양한 도메인에 걸쳐 서비스의 전반적인 유지 및 개발
@@ -35,6 +35,7 @@
 
 
 ## 📫 CONTACT
+* 홈페이지 : [핫재의 개발 블로그](https://hotjae.com/)
 * 이메일 : [gouz7514@gmail.com](gouz7514@gmail.com)
 * 블로그 : [https://velog.io/@gouz7514](https://velog.io/@gouz7514)
 * 이력서 : [김학재_이력서](https://drive.google.com/file/d/1FQ1IfrqY1Yn7ItXUC9ieULRjAL_mZUPW/view?usp=sharing)
