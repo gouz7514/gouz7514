@@ -39,7 +39,7 @@
 * 이메일 : [gouz7514@gmail.com](gouz7514@gmail.com)
 * 블로그 : [https://velog.io/@gouz7514](https://velog.io/@gouz7514)
 * 이력서 : [김학재_이력서](https://drive.google.com/file/d/1qQLEBNZZ_OBjmTn8xaV8y1ZidKcd6gNV/view?usp=sharing)
-* 경력기술서 : [김학재 경력기술서](https://drive.google.com/file/d/1HZpPq89FtLd5tkabPuAaUEVydpKJXDMd/view?usp=sharing)
+* 경력기술서 : [김학재 경력기술서](https://drive.google.com/file/d/1WubcGoNIsu34ynAnrr7i8yczuBtq1Jy7/view?usp=sharing)
 
 
 [![gouz7514's github stats](https://github-readme-stats-gouz7514.vercel.app/api?username=gouz7514)](https://github.com/anuraghazra/github-readme-stats)
