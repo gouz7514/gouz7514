@@ -31,7 +31,7 @@
 
 **이런 기술들을 공부하고 있어요**
 
-[![Tech stacks](https://skillicons.dev/icons?i=react,emotion,supabase)](https://skillicons.dev)
+[![Tech stacks](https://skillicons.dev/icons?i=react,emotion,supabase)](https://skillicons.dev)
 
 
 ## 📫 CONTACT
