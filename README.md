@@ -15,6 +15,7 @@
 개발팀의 전체적인 문서와 온보딩 과정을 개선한 경험이 있습니다.<br />
 주도적으로 새로운 개발 문화를 정착시키는 것을 시작으로 일하고 싶은 개발팀을 만들어 나가고 있습니다. ([관련 포스팅 링크](https://hotjae.com/posts/making-good-dev-team))
 
+### Enligsh Resume is [HERE!](https://www.canva.com/design/DAGmx0w-70U/G_KqueTIQmMXxuXiHaqL9w/view)
 
 ## 💾 CAREER
 **에이비제트 주식회사**<br />
