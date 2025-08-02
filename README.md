@@ -26,8 +26,8 @@ Open to **global opportunities**! 🌍
 
 I really am enjoying my current work, but it would be great opportunity to face more tough problems, struggle with team, and impact numerous user's life!
 
-* Blog : [my dev blog](https://hotjae.com/)
-* Email : [gouz7514@gmail.com](gouz7514@gmail.com) or [hakjae.dev@gmail.com](hakjae.dev@gmail.com)
+* Blog : [my dev blog](https://hakjae.dev/)
+* Email : [hakjae.dev@gmail.com](hakjae.dev@gmail.com) or [gouz7514@gmail.com](gouz7514@gmail.com)
 
 
 [![gouz7514's github stats](https://github-readme-stats-gouz7514.vercel.app/api?username=gouz7514)](https://github.com/anuraghazra/github-readme-stats)
