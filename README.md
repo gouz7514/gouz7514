@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hakjae – Frontend Product Engineer
-I'm a frontend engineer with 3+ years of experience building products that service millions of users daily.<br />
+I'm a frontend engineer with 4+ years of experience building products that service millions of users daily.<br />
 I believe great software is made when we deeply understand both users and teammtes.<br />
 That's why I talk to customers, collaborate with cross-functional teams, and turn feedback into real impact.
 
@@ -22,10 +22,6 @@ That's why I talk to customers, collaborate with cross-functional teams, and tur
 | **Tools**           | Figma, Notion, Slack, Zod, React Hook Form                            |
 
 ## 📫 CONTACT
-Open to **global opportunities**! 🌍
-
-I really am enjoying my current work, but it would be great opportunity to face more tough problems, struggle with team, and impact numerous user's life!
-
 * Blog : [my dev blog](https://hakjae.dev/)
 * Email : [hakjae.dev@gmail.com](hakjae.dev@gmail.com) or [gouz7514@gmail.com](gouz7514@gmail.com)
 
